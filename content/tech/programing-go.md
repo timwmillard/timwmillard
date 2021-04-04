@@ -5,3 +5,6 @@ draft: true
 ---
 
 The Go programming, it now my Goto language of choise.
+
+# Why Go
+It's just a simple language.
